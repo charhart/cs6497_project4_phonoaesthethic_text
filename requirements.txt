@@ -1,0 +1,6 @@
+nltk
+pyphen
+spacy
+gutenberg
+Vocabulary
+ety
